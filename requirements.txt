@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+google-generativeai
+openai
+reportlab
+beautifulsoup4
+requests
+python-multipart
+a2wsgi
